@@ -1,2 +1,3 @@
-# my-first-
-This is my first git
+# my-first
+This is my first git Repoistory.
+Author- Vaishnavi Chaudhary
